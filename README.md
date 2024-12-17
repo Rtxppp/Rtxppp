@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rtxppp
-- 👀 I’m interested in web-development
-- 🌱 I’m currently learning front-end.
-- 📫 How to reach me --> Gmail: popeangping1815@gmail.com
+- 👀 I’m passionate about **Web Development**.
+- 🌱 I’m currently learning **Front-End Development** (HTML, CSS, JavaScript).
+- 📫 Reach me at: **popeangping1815@gmail.com**.  
 
 
 <!---
